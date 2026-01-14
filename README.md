@@ -3,9 +3,9 @@ Scanly is a lightweight, Streamlit-based Face Recognition and Identity Verificat
 
 This project consists of two parts:
 
-Admin Panel: For registering new users, capturing face datasets, and training the model.
+- Admin Panel: For registering new users, capturing face datasets, and training the model.
 
-Identity Scanner: A real-time kiosk interface for verifying identities via webcam.
+- Identity Scanner: A real-time kiosk interface for verifying identities via webcam.
 
 ## 🚀 Features
 - Real-time Face Detection: Uses Haar Cascades for fast face detection.
