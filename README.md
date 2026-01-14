@@ -5,7 +5,7 @@ This project consists of two parts:
 
 - Admin Panel: For registering new users, capturing face datasets, and training the model.
 
-- Identity Scanner: A real-time kiosk interface for verifying identities via webcam.
+- Identity Scanner: A real-time interface for verifying identities via webcam.
 
 ## 🚀 Features
 - Real-time Face Detection: Uses Haar Cascades for fast face detection.
@@ -29,4 +29,23 @@ Streamlit (Frontend)
 
 - Pandas (Data Management)
 
+## 📖 Usage Guide
+Step 1: Register Users (Admin Panel)
+- You must register at least one user before using the scanner.
+
+- Run the Admin app:
+- streamlit run admin.py
+- Go to the "➕ Register User" tab.
+
+- Fill in the details (Name, ID, Phone, etc.).
+
+- Click "📸 Capture 30 Photos". Look at the camera and rotate your head slightly for better data.
+  Once captured, click "🧠 Update Face Model" to train the system.
+
+Step 2: Verify Identity (Scanner)
+- Run the Scanner app:
+- streamlit run scanner.py
+- Toggle "Activate Scanner Camera".
+- Click "Scan your face" (Streamlit's camera input).
+-If the face matches the trained model, the user's details will appear.  
 - Numpy (Array Processing)
