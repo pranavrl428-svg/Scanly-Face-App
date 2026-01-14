@@ -21,9 +21,9 @@ This project consists of two parts:
 - Auto-Directory Management: Automatically handles dataset and model folder creation.
 
 ## 🛠️ Tech Stack
-Python 3.x
+- Python 3.x
 
-Streamlit (Frontend)
+- Streamlit (Frontend)
 
 - OpenCV (Computer Vision)
 
