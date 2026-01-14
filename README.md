@@ -1,4 +1,4 @@
- ##👤 Scanly - Smart Face Recognition System
+ ## 👤 Scanly - Smart Face Recognition System
 Scanly is a lightweight, Streamlit-based Face Recognition and Identity Verification system. It uses OpenCV's Local Binary Patterns Histograms (LBPH) for face recognition and a simple Excel database to manage user details.
 
 This project consists of two parts:
