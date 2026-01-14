@@ -49,3 +49,9 @@ Step 2: Verify Identity (Scanner)
 - Click "Scan your face" (Streamlit's camera input).
 -If the face matches the trained model, the user's details will appear.  
 - Numpy (Array Processing)
+
+## Author
+- [PRANAV R L] - https://github.com/pranavrl428-svg
+- [SREEHARI B] - https://github.com/luxtaic
+- [SHAHUL HAMEED S J] - https://github.com/hameedsj7256-lab
+- [COLIN ELVIN FERNANDEZ] - 
