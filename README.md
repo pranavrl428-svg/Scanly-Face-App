@@ -54,4 +54,4 @@ Step 2: Verify Identity (Scanner)
 - [PRANAV R L] - https://github.com/pranavrl428-svg
 - [SREEHARI B] - https://github.com/luxtaic
 - [SHAHUL HAMEED S J] - https://github.com/hameedsj7256-lab
-- [COLIN ELVIN FERNANDEZ] - 
+- [COLIN ELVIN FERNANDEZ] - https://github.com/colinelvin
